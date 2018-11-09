@@ -39,6 +39,7 @@ public class TestMybatisDao {
         for (Account account : accountList) {
             System.out.println(account.getUsername());
         }
+        System.out.println("你好");
 
 
     }
